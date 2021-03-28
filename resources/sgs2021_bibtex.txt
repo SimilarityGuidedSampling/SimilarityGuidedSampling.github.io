@@ -1,0 +1,6 @@
+@inproceedings{SGS2021,
+  title={3D CNNs with Adaptive Temporal Feature Resolutions},
+  author={Mohsen Fayyaz, Emad Bahrami, Ali Diba, Mehdi Noroozi, Ehsan Adeli, Luc Van Gool, Juergen Gall},
+  booktitle={CVPR},
+  year={2021}
+}
